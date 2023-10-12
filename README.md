@@ -4,5 +4,4 @@ I am a versatile content writer and full-stack web developer who is passionate a
 I am open to networking, collaborating, and discussing opportunities that align with my skill set and career aspirations.
 
 ## Skills
-![HTML](file:///C:/Users/user/Downloads/html5-colored.svg) ![CSS](file:///C:/Users/user/Downloads/html5-colored.svg) ![Javascript](file:///C:/Users/user/Downloads/javascript-colored.svg) ![Bootstrap](file:///C:/Users/user/Downloads/bootstrap.png) ![PHP](file:///C:/Users/user/Downloads/php.png) ![mySQl](file:///C:/Users/user/Downloads/mysql.png)
-![html](https://github.com/Dhorkerz/Dhorkerz/assets/59448864/ea74d580-31ee-4a46-ae93-f6119a4e7377) 
+![html](https://github.com/Dhorkerz/Dhorkerz/assets/59448864/f42c5515-8785-4ab2-be87-605974939d6c) ![css](https://github.com/Dhorkerz/Dhorkerz/assets/59448864/d6ca0e22-1e22-456a-8d47-9459c7552270) ![bootstrap](https://github.com/Dhorkerz/Dhorkerz/assets/59448864/f28b7bda-ff0e-4467-998e-969fe8d9e8c8) ![javascript](https://github.com/Dhorkerz/Dhorkerz/assets/59448864/54f03d2b-abee-4d43-909b-f6182e20b77a) ![php](https://github.com/Dhorkerz/Dhorkerz/assets/59448864/d9a00478-4127-4597-9543-e26b4c57b6a9) ![mysql](https://github.com/Dhorkerz/Dhorkerz/assets/59448864/bc4b1127-2663-4e08-9a7b-7af63377e00a)
