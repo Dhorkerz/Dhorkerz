@@ -5,3 +5,4 @@ I am open to networking, collaborating, and discussing opportunities that align 
 
 ## Skills
 ![HTML](file:///C:/Users/user/Downloads/html5-colored.svg) ![CSS](file:///C:/Users/user/Downloads/html5-colored.svg) ![Javascript](file:///C:/Users/user/Downloads/javascript-colored.svg) ![Bootstrap](file:///C:/Users/user/Downloads/bootstrap.png) ![PHP](file:///C:/Users/user/Downloads/php.png) ![mySQl](file:///C:/Users/user/Downloads/mysql.png)
+![html](https://github.com/Dhorkerz/Dhorkerz/assets/59448864/ea74d580-31ee-4a46-ae93-f6119a4e7377) 
